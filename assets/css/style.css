@@ -1,3 +1,6 @@
 .major{
 	max-width: 500px;
 }
+.human-img, .animal-img{
+	max-width: 275px;
+}
