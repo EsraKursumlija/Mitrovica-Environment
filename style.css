@@ -1,2 +1,8 @@
 .img{
-	max-width: s500px }
+	max-width: 500px;
+}
+
+a.back-button:hover{
+	text-decoration: none !important;
+
+}
